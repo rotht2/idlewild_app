@@ -1,7 +1,7 @@
 import React from 'react';
 import {ImageBackground, StyleSheet} from 'react-native';
 
-const Header = () => {
+const Banner = () => {
   return (
     <ImageBackground
       style={styles.header}
@@ -16,4 +16,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Header;
+export default Banner;
