@@ -1,5 +1,5 @@
 import React from 'react';
-import {ImageBackground, Text, StyleSheet} from 'react-native';
+import {ImageBackground, StyleSheet} from 'react-native';
 
 const Header = () => {
   return (
